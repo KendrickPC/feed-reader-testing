@@ -9,3 +9,8 @@ Using Jasmine to write a number of tests against pre-existing applications, agai
 4. Open up a web browser and type in the url `localhost:8000`
 5. Note that this Feed Reader testing does not work when pushed to a server.
 
+
+##### Code is written in the following files:
+
+* js/app.js
+* jasmine/spec/feedreader.js
